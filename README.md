@@ -1,6 +1,5 @@
 # FindPrivKey
 
-# BruteForcePrivateKey
 Questo progetto implementa un sistema di forza bruta per chiavi private con secp256k1.
 
 ## Setup
